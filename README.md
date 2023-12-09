@@ -18,11 +18,12 @@
   
   
   ## Demo
-  - Application Video : 
+  - Application Video : https://drive.google.com/file/d/1PopCmRJntvL36XSl-LxQnxwnh8A14z5N/view
+  
 
   
   ## Contributing
-  Contributors were sequelize, node and express.js. 
+  Contributors were sequelize, mysql2 node and express.js & dotenv package.  
 
   ## Questions
   My email [chadedwardsofficial@gmail.com](mailto:chadedwardsofficial@gmail.com). You can also find me on [GitHub](https://github.com/chadedwardsofficial).
